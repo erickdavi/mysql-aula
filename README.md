@@ -1,13 +1,20 @@
 ## How to use
 
 ### Deploy
+#### Todas as plataformas
 git clone https://github.com/erickdavi/mysql-aula.git<br>
 cd mysql-aula<br>
-----------------------------<br>
-bash run-db.sh #Linux<br>
-OU<br>
-./run-db.bat # Powershell<br>
-----------------------------<br>
+
+#### Linux
+bash run-db.sh<br>
+
+#### Windows
+./run-db.bat<br>
+
+#### Vagrant
+vagrant up<br>
+vagrant ssh<br>
+
 
 ### Entrar no container
 docker container ls<br>
