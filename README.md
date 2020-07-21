@@ -10,7 +10,7 @@ docker container ls<br>
 docker run -ti <container_id> bash<br>
 
 ### Dentro do container
-mysql -u <usuario> -p<senha>
+mysql -u [usuario] -p[senha]
   
 ### Contas e senhas
 
