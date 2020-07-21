@@ -29,3 +29,6 @@ mysql -u [usuario] -p[senha]
     <td>admin</td>
   </tr>
 </table>
+
+### Mais detalhes:
+https://youtu.be/Mead-hHdTeI
