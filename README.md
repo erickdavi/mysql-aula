@@ -3,8 +3,11 @@
 ### Deploy
 git clone https://github.com/erickdavi/mysql-aula.git<br>
 cd mysql-aula<br>
+----------------------------<br>
 bash run-db.sh #Linux<br>
+OU
 ./run-db.bat # Powershell
+----------------------------<br>
 
 ### Entrar no container
 docker container ls<br>
